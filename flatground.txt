@@ -1,0 +1,136 @@
+Ollie // *** OLLIE *** group
+Fakie Ollie
+Nollie
+Switch Ollie
+Frontside 180 // *** FRONTSIDE 180 *** group
+Fakie Frontside 180
+Nollie Frontside 180
+Switch Frontside 180
+Backside 180 // *** BACKSIDE 180 *** group
+Fakie Backside 180
+Nollie Backside 180
+Switch Backside 180
+Frontside 360 // ***FRONTSIDE 360 *** group
+Fakie Frontside 360
+Nollie Frontside 360
+Switch Frontside 360
+Backside 360 // *** BACKSIDE 360 *** group
+Fakie Backside 360
+Nollie Backside 360
+Switch Backside 360
+Kickflip // *** KICKFLIP *** group
+Fakie Kickflip
+Nollie Kickflip
+Switch Kickflip
+Heelflip // *** HEELFLIP *** group
+Fakie Heelflip
+Nollie Heelflip
+Switch Heelflip
+Varial Kickflip // *** VARIAL KICKFLIP *** group
+Fakie Varial Kickflip
+Nollie Varial Kickflip
+Switch Varial Kickflip
+Varial Heelflip // *** VARIAL HEELFLIP *** group
+Fakie Varial Heelflip
+Nollie Varial Heelflip
+Switch Varial Heelflip
+Hardflip // *** HARDFLIP *** group
+Fakie Hardflip
+Nollie Hardflip
+Switch Hardflip
+Inward Heelflip *** INWARD HEELFLIP *** group
+Fakie Inward Heelflip
+Nollie Inward Heelflip
+Switch Inward Heelflip
+360 Flip // *** 360 FLIP *** group
+Fakie 360 Flip
+Nollie 360 Flip
+Switch 360 Flip
+Lazer Flip // *** LAZER FLIP *** group
+Fakie Lazer Flip
+Nollie Lazer Flip
+Switch Lazer Flip
+Backside Bigspin // *** BACKSIDE BIGSPIN *** group
+Fakie Backside Bigspin
+Nollie Backside Bigspin
+Switch Backside Bigspin
+Frontside Bigspin // *** FRONTSIDE BIGSPIN *** group
+Fakie Frontside Bigspin
+Nollie Frontside Bigspin
+Switch Frontside Bigspin
+Backside Bigflip // *** BACKSIDE BIGFLIP *** group
+Fakie Backside Bigflip
+Nollie Backside Bigflip
+Switch Backside Bigflip
+Frontside Bigflip // *** FRONTSIDE BIGFLIP *** group
+Fakie Frontside Bigflip
+Nollie Frontside Bigflip
+Switch Frontside Bigflip
+Backside Bigheel // *** BACKSIDE BIGHEEL *** group
+Fakie Backside Bigheel
+Nollie Backside Bigheel
+Switch Backside Bigheel
+Frontside Bigheel // *** FRONTSIDE BIGHEEL *** group
+Fakie Frontside Bigheel
+Nollie Frontside Bigheel
+Switch Frontside Bigheel
+Backside Kickflip // *** BACKSIDE KICKFLIP *** group
+Fakie Backside Kickflip
+Nollie Backside Kickflip
+Switch Backside Kickflip
+Frontside Kickflip // *** FRONTSIDE KICKFLIP *** group
+Fakie Frontside Kickflip
+Nollie Frontside Kickflip
+Switch Frontside Kickflip
+Backside Heelflip // *** BACKSIDE HEELFLIP *** group
+Fakie Backside Heelflip
+Nollie Backside Heelflip
+Switch Backside Heelflip
+Frontside Heelflip // *** FRONTSIDE HEELFLIP *** group
+Fakie Frontside Heelflip
+Nollie Frontside Heelflip
+Switch Frontside Heelflip
+Double Kickflip // *** DOUBLE KICKFLIP *** group
+Fakie Double Kickflip
+Nollie Double Kickflip
+Switch Double Kickflip
+Double Heelflip // *** DOUBLE HEELFLIP *** group
+Fakie Double Heelflip
+Nollie Double Heelflip
+Switch Double Heelflip
+Pressure Flip // *** PRESSURE FLIP *** group
+Fakie Pressure Flip
+Nollie Pressure Flip
+Switch Pressure Flip
+Backside 360 Kickflip // *** BACKSIDE 360 KICKFLIP *** group
+Fakie Backside 360 Kickflip
+Nollie Backside 360 Kickflip
+Switch Backside 360 Kickflip
+Frontside 360 Kickflip // *** FRONTSIDE 360 KICKFLIP *** group
+Fakie Frontside 360 Kickflip
+Nollie Frontside 360 Kickflip
+Switch Frontside 360 Kickflip
+Backside 360 Heelflip // *** BACKSIDE 360 HEELFLIP *** group
+Fakie Backside 360 Heelflip
+Nollie Backside 360 Heelflip
+Switch Backside 360 Heelflip
+Frontside 360 Heelflip // *** FRONTSIDE 360 HEELFLIP *** group
+Fakie Frontside 360 Heelflip
+Nollie Frontside 360 Heelflip
+Switch Frontside 360 Heelflip
+360 Hardflip // *** 360 HARDFLIP *** group
+Fakie 360 Hardflip
+Nollie 360 Hardflip
+Switch 360 Hardflip
+360 Double Flip // *** 360 DOUBLE FLIP *** group
+Fakie 360 Double Flip
+Nollie 360 Double Flip
+Switch 360 Double Flip
+Double Lazer Flip // *** DOUBLE LAZER FLIP *** group
+Fakie Double Lazer Flip
+Nollie Double Lazer Flip
+Switch Double Lazer Flip
+Double Hardflip // *** DOUBLE HARDFLIP *** group
+Fakie Double Hardflip
+Nollie Double Hardflip
+Switch Double Hardflip
