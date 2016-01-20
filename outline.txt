@@ -1,0 +1,14 @@
+name: Ultimate S.K.A.T.E. Training
+
+use a queue or a list or something and load the tricks into that, then remove them once the trick has been done success-
+fully
+
+have a Land class or something that contains Land and Fail - Land and Fail each get a percent chance for the computer's
+turn
+
+either make it simulate an actual game of skate (tricks get harder as it goes on) or just randomly choose any trick ava-
+ilable (different game modes?)
+
+maybe have a berrics rules and an anything goes (no-complies, etc.)
+
+possibly have a list of round 1 tricks and their percentages, round 2, and etc.
