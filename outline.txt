@@ -12,3 +12,21 @@ ilable (different game modes?)
 maybe have a berrics rules and an anything goes (no-complies, etc.)
 
 possibly have a list of round 1 tricks and their percentages, round 2, and etc.
+
+"suggest tricks" feature - send me trick suggestions
+
+provide an "about" or "info" section with each trick listed for every difficulty level and such
+
+search suggestions for trick names on the user's turn
+
+have a choice for selecting multiple terrains (flatground & rail, quarterpipe & ledge & manual pad, etc.
+
+have a "bank" terrain
+
+save letters and wins and other stats to a text file - one for the details of each match, one for general statistics like
+total letters and total wins and losses and such
+
+for player's turn where they enter a trick: create a dictionary where the trick is the index - {int num, str trick} ->
+then use the num you retrieved as the index for the trick LIST to determine what the trick is
+
+maybe use a dictionary or something for the tricks and landing probability values for different turns? i dunno
